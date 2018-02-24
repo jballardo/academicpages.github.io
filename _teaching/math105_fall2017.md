@@ -1,5 +1,5 @@
 ---
-title: "Math 105 Fall 2017"
+title: "Math 105 - Fall 2017"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/math105_fall2017
@@ -11,10 +11,10 @@ location: "Ann Arbor, Michigan"
 
 Heading 1
 ======
-
+How does this work?
 
 Heading 2
 ======
-
+What about this?
 Heading 3
 ======
