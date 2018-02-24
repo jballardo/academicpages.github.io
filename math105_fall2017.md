@@ -2,7 +2,7 @@
 title: "Math 105 Graduate Student Instructor"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/math105_fall2017
 venue: "University of Michigan"
 date: 09-04-2017
 location: "Ann Arbor, Michigan"
