@@ -1,5 +1,5 @@
 ---
-title: "Math 105 Graduate Student Instructor"
+title: "Math 105 Fall 2017"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/math105_fall2017
@@ -8,7 +8,6 @@ date: 09-04-2017
 location: "Ann Arbor, Michigan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
