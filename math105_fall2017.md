@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Michigan"
-date: Fall 2017
+date: 09-04-2017
 location: "Ann Arbor, Michigan"
 ---
 
